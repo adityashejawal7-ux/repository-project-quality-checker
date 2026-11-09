@@ -1,0 +1,42 @@
+{
+    "project": "Repository Project-Quality Checker",
+    "repository": "C:\\Users\\aditya\\OneDrive\\Documents\\Desktop\\Repository-Project-Quality-Checker",
+    "date": "2026-11-09T15:58:37.081373",
+    "results": [
+        {
+            "item": "README.md",
+            "type": "File",
+            "status": "PASS"
+        },
+        {
+            "item": "LICENSE",
+            "type": "File",
+            "status": "PASS"
+        },
+        {
+            "item": "requirements.txt",
+            "type": "File",
+            "status": "PASS"
+        },
+        {
+            "item": ".gitignore",
+            "type": "File",
+            "status": "PASS"
+        },
+        {
+            "item": "src",
+            "type": "Folder",
+            "status": "PASS"
+        },
+        {
+            "item": "tests",
+            "type": "Folder",
+            "status": "PASS"
+        },
+        {
+            "item": "docs",
+            "type": "Folder",
+            "status": "PASS"
+        }
+    ]
+}
